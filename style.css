@@ -180,7 +180,7 @@ footer .glyphicon {
   margin-left: 100px;
 }
 #myimg2:hover {
-  box-shadow: 0 0 2px 1px red;
+  box-shadow: 0 0 2px 1px rgb(248, 246, 246);
 }
 
 .dropdown-menu {
@@ -196,16 +196,15 @@ footer .glyphicon {
   }
 
   h2:hover {
-    color:red;
+    color:rgb(23, 121, 213);
   }
   h1:hover {
-    color:lime
+    color:rgb(41, 118, 224)
   }
  .item img{
     border-radius: 25px;
-    border: 3px solid #1363c6 !important;;
-    padding: 20px; 
-    width: 70%;
+    border: 3px solid #ffffff !important;;
+ 
   }
 
   .glyphicon-user:before {    
